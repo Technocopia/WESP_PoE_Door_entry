@@ -1,0 +1,5 @@
+ESQ-110-44-T-D for 2x10 connector to wesp
+RFD3055LESM9A for fet
+	
+BC846B npn
+BC857B pnp

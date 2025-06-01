@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "wesp_hat")(type "KiCad")(uri "${KIPRJMOD}/wesp_hat.pretty")(options "")(descr ""))
+  (lib (name "fuse154")(type "KiCad")(uri "${KIPRJMOD}/fuse154.pretty")(options "")(descr ""))
+  (lib (name "to_252_fet")(type "KiCad")(uri "${KIPRJMOD}/to_252_fet.pretty")(options "")(descr ""))
+)

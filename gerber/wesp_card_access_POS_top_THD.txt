@@ -1,0 +1,14 @@
+### Module positions - created on 2024-11-23 15:43
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 40.050mm, Pcb Width 75.050mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+J2            12v in              PhoenixContact_MC_1,5_2-G-3.. 156.1500   -114.8175  156.1500   -114.8175     0.0    top       THD
+J6            Barrel_Jack         BarrelJack_Horizontal         138.5425   -109.0000  138.5425   -109.0000     9.0    top       THD
+J5            Door_Strike         PhoenixContact_MC_1,5_2-G-3.. 116.8500   -84.1825   116.8500   -84.1825     18.0    top       THD
+J3            RS485               PhoenixContact_MC_1,5_3-G-3.. 165.2550   -84.1825   165.2550   -84.1825     18.0    top       THD
+J4            Door_Strike         PhoenixContact_MC_1,5_2-G-3.. 128.8500   -84.1825   128.8500   -84.1825     18.0    top       THD
+J1            Card_Reader         PhoenixContact_MC_1,5_4-G-3.. 148.6600   -84.1150   148.6600   -84.1150     18.0    top       THD
+## End
